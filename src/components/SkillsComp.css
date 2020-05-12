@@ -1,0 +1,64 @@
+div.skillsfirst{
+    width:33%;
+    height: 60%;
+   
+    float: left;
+    /* background-color: rgb(204, 207, 183); */
+    color: white;
+    font-weight: 400;
+    padding-top: 5%;
+    padding-left: 2%;
+  }
+
+   div.skillssecond{
+    width:33%;
+    height: 60%;
+    color: white;
+    font-weight: 400;
+    float: left;
+    /* background-color: rgb(204, 207, 183); */
+    padding-top: 5%;
+    padding-left: 2%;
+   }
+
+   div.skillsthird{
+    width:34%;
+    height: 60%;
+    color: white;
+    font-weight: 400;
+    float: left;
+    /* background-color: rgb(204, 207, 183); */
+    padding-top: 5%;
+    padding-left: 2%;
+   }
+
+   div.skillsfourth{
+    width:100%;
+    height: 60%;
+    color: white;
+    font-weight: 400;
+    float: left;
+    /* background-color: rgb(204, 207, 183); */
+    padding-top: 5%;
+    padding-left: 2%;
+   }
+
+   div.language1{
+    width:22%;
+    float: left;
+   }
+   div.language2{
+    padding-left: 3%;
+    width:25%; 
+    float: left;
+   }
+   div.language3{
+    padding-left: 3%;
+    width:25%; 
+    float: left;
+   }
+   div.language4{
+    padding-left: 3%;
+    width:25%; 
+    float: left;
+   }

@@ -1,0 +1,32 @@
+div.company{
+    /* background-color: #082c4f; */
+    width: 100%;
+    height: 100%;
+    float:left;
+    color: white;
+    font-weight: 400;
+    border-bottom: solid white;
+    border-width: 5px;
+    /* background-image: linear-gradient(to bottom, white , wheat); */
+   }
+
+div.compfirstdiv{
+    width:23%;
+    /* height: 100%;    */
+    float: left;  
+   }
+
+div.compseconddiv{
+    width:77%;
+    /* height: 100%; */
+    float: left;
+    padding-left: 5%;
+    /* border-left: solid white; */
+    border-width: 10px;
+   }  
+
+div.compDetails{
+       padding-left: 20%;
+       padding-right: 15%;     
+       
+   }

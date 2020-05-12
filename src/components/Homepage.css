@@ -1,0 +1,24 @@
+div.firstdiv{
+    width:100%;
+    height: 30%;
+    /* border:1px solid red; */
+    float: left;
+    background-color: rgb(204, 207, 183);
+    /* border:1px solid white; */
+   }
+
+div.seconddiv{
+    width:100%;
+    height: 70%;
+    /* border:1px solid red; */
+    float: left;
+    background-image: url('../Images/bgImg1.jpg');
+    /* background-color:rgb(204, 207, 183); */
+    /* border:1px solid white; */
+   }
+
+   div.card1{
+       padding-left: 15%;
+       padding-top: 2%;
+       /* abc */
+   }  

@@ -1,0 +1,10 @@
+div.project{
+    height: 100%;
+    width: 40%;
+    border: 'solid white';
+    border-Width: '10px';
+    padding-left: 5%; 
+    padding-top: 2%;
+    color: white;
+    font-weight: 400;
+}
