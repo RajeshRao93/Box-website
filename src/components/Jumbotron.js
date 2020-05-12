@@ -10,7 +10,7 @@ const JumbotronComp = () => {
                 <h4 style={{ fontWeight: '900', fontFamily: 'cursive' }}>
                     Welcome to <MDBIcon fab icon="phoenix-framework" /> BOX.
                             <br /><br />
-                    Project BOX to kill time during lockdown.
+                    Template website for CV / Resume.
                                                         </h4>
             </Jumbotron>
         </div>
