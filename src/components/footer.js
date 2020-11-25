@@ -15,7 +15,7 @@ const FooterPage = () => {
             <MDBCol md="6">
               <br />
               <p style={{ color: "black", fontWeight: "400" }}>
-                <MDBIcon fab icon="phoenix-framework" /> <b>B O X</b>
+                <MDBIcon fab icon="phoenix-framework" /> <b>allaboutme</b>
                 <br />
                 <p>
                   <b>

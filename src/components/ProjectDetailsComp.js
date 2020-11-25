@@ -39,7 +39,7 @@ class ProjectDetailsComp extends React.Component {
       <div>
         <div className="projectFirst">
           <Project
-            title="Box Website"
+            title="allaboutme Website"
             place="Self"
             time="May 2020 - June 2020 "
             details={this.state.BoxWebsite}

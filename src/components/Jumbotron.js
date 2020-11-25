@@ -21,7 +21,7 @@ const JumbotronComp = () => {
         <h4
           style={{ fontWeight: "900", fontFamily: "cursive", color: "black" }}
         >
-          Welcome to <MDBIcon fab icon="phoenix-framework" /> BOX.
+          Welcome to <MDBIcon fab icon="phoenix-framework" /> allaboutme.
           <br />
           <br />
           Template website for CV / Resume.

@@ -18,7 +18,7 @@ class Navigationbar extends React.Component {
           style={{ color: "black", borderBottom: "5px #289fa5" }} //#289fa5
         >
           <h2 style={{ fontWeight: "900", fontSize: "2.5rem" }}>
-            <MDBIcon fab icon="phoenix-framework" /> BOX
+            <MDBIcon fab icon="phoenix-framework" /> allaboutme
           </h2>
         </Navbar.Brand>
         <div className="About">

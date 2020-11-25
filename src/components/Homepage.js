@@ -47,7 +47,7 @@ class Homepage extends React.Component {
             >
               <MDBIcon far icon="hand-spock" /> Hello!
               <br />
-              Welcome to <MDBIcon fab icon="phoenix-framework" /> BOX!
+              Welcome to <MDBIcon fab icon="phoenix-framework" /> allaboutme!
               <br />
               <br />
             </h1>
