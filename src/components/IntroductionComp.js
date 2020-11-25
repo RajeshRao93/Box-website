@@ -118,7 +118,7 @@ class IntroductionComp extends React.Component {
                 <Card.Text style={{ color: "white" }}>
                   <b>
                     <p style={{ textAlign: "justify" }}>
-                      Motivated and passionate software professional with 4
+                      Motivated and passionate software professional with 4+
                       years of experience. Currently, <br />
                       a master’s student pursuing MSc in Information Engineering
                       and Computer Science <br />
