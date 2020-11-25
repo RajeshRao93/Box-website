@@ -1,15 +1,7 @@
 "use strict";
 import React from "react";
 import "./Homepage.css";
-import {
-  Nav,
-  NavItem,
-  Navbar,
-  Badge,
-  Jumbotron,
-  Button,
-  Card,
-} from "react-bootstrap";
+import { Jumbotron, Card } from "react-bootstrap";
 import { MDBIcon } from "mdbreact";
 import FooterPage from "./footer.js";
 import image from "../Images/Cvlogo.jpg";
@@ -83,15 +75,3 @@ class Homepage extends React.Component {
 }
 
 export default Homepage;
-
-{
-  /* <Card.Body>
-                                {/* <Card.Title>View Resume</Card.Title> */
-}
-// <Card.Text>
-//<b> Click here to view the resume.</b>
-// </Card.Text>
-{
-  /* <Button  variant="primary">See Resume</Button> */
-}
-// </Card.Body> */}

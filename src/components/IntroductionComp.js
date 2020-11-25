@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col, Container, Image, Text, Card } from "react-bootstrap";
+import { Image, Card } from "react-bootstrap";
 import { MDBIcon } from "mdbreact";
 import image from "../Images/RajeshImg.png";
 import "./IntroductionComp.css";

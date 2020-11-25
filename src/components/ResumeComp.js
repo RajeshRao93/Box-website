@@ -1,7 +1,5 @@
-"use strict";
 import React from "react";
 import "./ResumeComp.css";
-import { Nav, NavItem, Navbar, Badge, Button } from "react-bootstrap";
 import { MDBIcon } from "mdbreact";
 import FooterPage from "./footer.js";
 import Jumbotron from "./Jumbotron.js";
@@ -28,11 +26,11 @@ class ResumeDiv extends React.Component {
   }
 
   setStateDefaultValues() {
-    this.state.category1 = false;
-    this.state.category2 = false;
-    this.state.category3 = false;
-    this.state.category4 = false;
-    this.state.category5 = false;
+    this.setState({ category1: false });
+    this.setState({ category2: false });
+    this.setState({ category3: false });
+    this.setState({ category4: false });
+    this.setState({ category5: false });
   }
 
   hideComponent(name) {
@@ -59,7 +57,6 @@ class ResumeDiv extends React.Component {
         this.setState({ category5: !this.state.category5 });
         break;
       default:
-        null;
     }
   }
 

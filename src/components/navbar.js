@@ -1,14 +1,5 @@
-"use strict";
 import React from "react";
-import {
-  Nav,
-  NavItem,
-  Navbar,
-  Badge,
-  Form,
-  Button,
-  FormControl,
-} from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import { MDBIcon } from "mdbreact";
 import "./navbar.css";
 
